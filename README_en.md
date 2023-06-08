@@ -8,7 +8,7 @@ The data will be registered in the Synapse Dedicated SQL Pool in the following f
 
 | json_line (DATA_TYPE:NVARCHAR(MAX))|
 |---|
-|{"event_date":"20201227","event_timestamp":"1609039659225742","event_name":"view_promotion","event_params":[{"key":"engaged_session_event","value":{"int_va ･･･ |
+|{"event_date":"20201227","event_timestamp":"1609039659225742","event_name":"view_promotion"," ･･･ |
 
 Instructions on how to use the script, including Synapse Pipeline configuration, will be provided at a later date.
 
