@@ -1,5 +1,5 @@
-<English Follows>
 # azure-synapse-ga4-data-pipeline
+<English Follows>  
 GA4 のデータを Azure Synapse 専用 SQL Pool に取り込むためのスクリプトとなります｡
 
 
