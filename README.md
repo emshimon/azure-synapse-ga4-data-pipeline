@@ -4,7 +4,7 @@ GA4 のデータを Azure Synapse 専用 SQL Pool に取り込むためのスク
 
 
 ## スクリプトが使用できるシナリオ
-GA4 の JSON データを Azure Synaapse Analytics Pipeline のコピー アクティビティを使用して､1つのレコードを 1 行の文字列として Synapse 専用 SQL Pool に取り込む必要があります｡
+GA4 の JSON データを Azure Synapse Analytics Pipeline のコピー アクティビティを使用して､1つのレコードを 1 行の文字列として Synapse 専用 SQL Pool に取り込む必要があります｡
 
 Synapse 専用 SQL Pool 上ににデータをこのような形で登録します
 | json_line (DATA_TYPE:NVARCHAR(MAX))|
