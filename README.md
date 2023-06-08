@@ -9,7 +9,7 @@ GA4 の JSON データを Azure Synaapse Analytics Pipeline のコピー アク�
 Synapse 専用 SQL Pool 上ににデータをこのような形で登録します
 | json_line (DATA_TYPE:NVARCHAR(MAX))|
 |---|
-|{"event_date":"20201227","event_timestamp":"1609039659225742","event_name":"view_promotion","event_params":[{"key":"engaged_session_event","value":{"int_va ･･･ |
+|{"event_date":"20201227","event_timestamp":"1609039659225742","event_name":"view_promotion"," ･･･ |
 
 Synapse Pipeline 構成方法も含めた､スクリプトの使用方法の手順は後日公開予定です｡
 
